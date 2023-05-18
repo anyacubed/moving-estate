@@ -1,0 +1,20 @@
+{
+  "port": 80,
+  "database_url": "sqlite://db/main.db",
+  "mail": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "secure": false,
+    "auth": {
+      "user": "stacey.collier64@ethereal.email",
+      "pass": "3hNEgt6RvzgRxDmP6H"
+    }
+  },
+  "admin_url": "http://localhost",
+  "auth": {
+    "GOOGLE_CLIENT_ID": "778039279925-sgbaf0b4deu7k2f6qna722danojjact7.apps.googleusercontent.com",
+    "GOOGLE_CLIENT_SECRET": "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",
+    "secret": "auth"
+  },
+  "manager_email": "jsmastery2022@gmail.com"
+}
